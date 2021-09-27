@@ -1,7 +1,9 @@
 /*  Left rotate k times   */
+/*  HackerRAnk Question   */
+/*  DATE  27/09/21        */
+
 
 #include <stdio.h>
-
 int main()
 {
     int i,n,k;
