@@ -32,6 +32,7 @@ else
     j++;
 }
 }
+des[j]='\0';
 return des;
 }
 
